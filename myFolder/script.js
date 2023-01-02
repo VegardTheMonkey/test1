@@ -1,1 +1,1 @@
-console.log('hei hei');
+console.log('hei på deg');
